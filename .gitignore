@@ -1,0 +1,11 @@
+# node_modules
+/node_modules
+
+# Environment variables
+.env
+
+# Build
+/build
+
+# vs code
+.vscode
